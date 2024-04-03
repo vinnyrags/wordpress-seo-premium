@@ -1,0 +1,10 @@
+{
+  "name": "vinnyrags/wordpress-seo-premium",
+  "description": "Wordpress Premium SEO for all website builds.",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0",
+  "require": {
+    "php": ">=5.4",
+    "composer/installers": "~1.0"
+  }
+}
